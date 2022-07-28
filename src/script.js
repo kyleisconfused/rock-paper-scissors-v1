@@ -12,6 +12,7 @@ const init = function () {
   computerScore = 0;
   userScore = 0;
   playing = true;
+  resetBtn.textContent = "Reset game";
 };
 init();
 
