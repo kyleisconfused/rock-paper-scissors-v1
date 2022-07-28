@@ -5,4 +5,4 @@ A simple rock, paper, scissors game
 Made with HTML, CSS, and JavaScript
 
 ## Known Bugs
-After a score of 5 (the win condition) is reached by either the user or the computer, the score continues to increment up if the user does not press the "Reset" button. 
+After a score of 5 (the win condition) is reached by either the user or the computer and user clicks the "reset" button, it does not return to its original "reset game" text.
